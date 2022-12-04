@@ -187,7 +187,7 @@ ul {
     flex-direction: row;
     padding: 32px;
     align-items: center;
-    gap: 64px;
+    gap: 128px;
 }
 
 .cta-header {
